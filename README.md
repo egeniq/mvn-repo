@@ -18,3 +18,11 @@ Now you can use the artifacts like this:
     dependencies {
         compile 'com.egeniq:android-library:1.0'
     }
+
+Available artifacts:
+--------
+
+[Egeniq Android Library](https://github.com/egeniq/egeniq-android)
+
+    com.egeniq:android-library:1.0
+    com.egeniq:android-library:1.0.1
