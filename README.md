@@ -16,7 +16,7 @@ Simply add the repository to your  build.gradle file:
 Now you can use the artifacts like this:
 
     dependencies {
-        compile 'com.egeniq:android-library:1.0'
+        compile 'com.egeniq:android-library:1.0.2'
     }
 
 Available artifacts:
@@ -26,3 +26,4 @@ Available artifacts:
 
     com.egeniq:android-library:1.0
     com.egeniq:android-library:1.0.1
+    com.egeniq:android-library:1.0.2
