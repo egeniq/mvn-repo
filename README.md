@@ -26,4 +26,4 @@ Available artifacts:
 
     com.egeniq:android-library:1.0
     com.egeniq:android-library:1.0.1
-	com.egeniq:android-library:1.0.2
+    com.egeniq:android-library:1.0.2
