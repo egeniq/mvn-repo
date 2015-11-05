@@ -29,4 +29,5 @@ Available artifacts:
     com.egeniq:android-library:1.0.2
     com.egeniq:android-library:1.0.3
     com.egeniq:android-library:1.0.4	Advanced markup with SpannableTextView
-    com.egeniq:android-library:1.0.5	String.format formatting option in TextView
+    com.egeniq:android-library:1.0.5	Contains a bug in Button and TextView, don’t use
+    com.egeniq:android-library:1.0.6	Added DigestFrequency to msgs/v2/entity/Endpoint
