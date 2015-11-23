@@ -30,5 +30,5 @@ Available artifacts:
     com.egeniq:android-library:1.0.3
     com.egeniq:android-library:1.0.4	Advanced markup with SpannableTextView.
     com.egeniq:android-library:1.0.5	Contains a bug in Button and TextView, don’t use.
-    com.egeniq:android-library:1.0.6	Added DigestFrequency to msgs/v2/entity/Endpoint.
-    com.egeniq:android-library:1.0.7	Replaced DigestFrequency enum with String. Concrete values are to be determined by depending project.
+    com.egeniq:android-library:1.0.6	Added DeliveryFrequency to msgs/v2/entity/Endpoint.
+    com.egeniq:android-library:1.0.7	Replaced DeliveryFrequency enum with String values.
